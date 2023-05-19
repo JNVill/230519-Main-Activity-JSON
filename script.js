@@ -1,4 +1,4 @@
-let users = JSON.stringify(
+let users = `[
 		    {
 		      "id": 1,
 		      "name": "Leanne Graham",
@@ -226,9 +226,9 @@ let users = JSON.stringify(
 		      "company": {
 		        "name": "Hoeger LLC",
 		        "catchPhrase": "Centralized empowering task-force",
-		        "bs": "target end-to-end models"
+		        bs": "target end-to-end models"
 		      }
 		    }
-		  );
+		  ]`;
 		  
 		console.log(JSON.stringify(users));
