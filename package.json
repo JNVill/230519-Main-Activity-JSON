@@ -1,0 +1,12 @@
+{
+  "name": "activity",
+  "version": "1.0.0",
+  "description": "Activity-1",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonas balajadia",
+  "license": "ISC"
+}
