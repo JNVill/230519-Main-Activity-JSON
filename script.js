@@ -226,7 +226,7 @@ let users = `[
 		      "company": {
 		        "name": "Hoeger LLC",
 		        "catchPhrase": "Centralized empowering task-force",
-		        bs": "target end-to-end models"
+		        "bs": "target end-to-end models"
 		      }
 		    }
 		  ]`;
